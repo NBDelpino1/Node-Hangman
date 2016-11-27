@@ -1,0 +1,22 @@
+{
+  "name": "node-hangman",
+  "version": "1.0.0",
+  "description": "### Overview In this assignment, you'll revisit the Hangman homework from week two and empower it with JavaScript constructors. Unlike the original front-end app, this Hangman game will run entirely with Node.js.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NBDelpino1/Node-Hangman.git"
+  },
+  "author": "Nicholas Delpino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NBDelpino1/Node-Hangman/issues"
+  },
+  "homepage": "https://github.com/NBDelpino1/Node-Hangman#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
