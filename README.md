@@ -1,5 +1,3 @@
-# Week 11 Assignment
-
 ### Overview
 In this assignment, you'll revisit the Hangman homework from week two and empower it with JavaScript constructors. Unlike the original front-end app, this Hangman game will run entirely with Node.js.
 
@@ -27,11 +25,3 @@ In this assignment, you'll revisit the Hangman homework from week two and empowe
   * Submit your app whether you finish or not; if you don't show us anything then we won't be able to help you with whatever programming issues you encountered this week.
 3. **Working game > pretty dud**. We're focusing on game mechanics, not just on the look and feel of your app.
 
--------
-### One More Thing
-If you have any questions about this project or about the material we covered, the instructor and your TAs are only a Slack message away.
-
-**Good Luck!**
-
-## Copyright
-Coding Boot Camp (C) 2016. All Rights Reserved.
